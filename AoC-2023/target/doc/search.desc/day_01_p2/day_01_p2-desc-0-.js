@@ -1,0 +1,1 @@
+searchState.loadedDescShard("day_01_p2", 0, "")

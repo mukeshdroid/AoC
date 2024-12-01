@@ -1,0 +1,1 @@
+searchState.loadedDescShard("AoC_2023", 0, "produces a number concatenating the first and last digit …")

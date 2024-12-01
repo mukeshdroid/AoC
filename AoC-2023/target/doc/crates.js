@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["AoC_2023","day_01_p1","day_01_p2"];
